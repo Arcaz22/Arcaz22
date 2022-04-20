@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
-- 🌠 Wish: **Got a some project**
+- 🌠 Wish: **Luck**
 
 - ⚡ Fun fact **I love U😘**
 
