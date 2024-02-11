@@ -10,14 +10,17 @@
 
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
-  <h3 align="left">Languages and Tools:</h3> 
+  <h3 align="left">Tools</h3> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>      
+  </a>
+  <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
 </p>
