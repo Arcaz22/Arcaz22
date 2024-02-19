@@ -23,4 +23,9 @@
   <a href="https://rabbitmq.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
-</p>
+
+  <h3 align="left">My Portofolio</h3> 
+  <a href="https://chandra-chi.vercel.app/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="portofolio" width="40" height="40"/>
+  </a>
+
