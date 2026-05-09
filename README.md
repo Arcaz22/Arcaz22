@@ -8,6 +8,7 @@
 
 - 💻 I am interested in **Artificial Intelligence**
 - 📃 My portofolio **https://portofolio-tan-nu.vercel.app/**
+- 📝 I write on **https://medium.com/@chandraarcychan**
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
   <!-- <h3 align="left">Tools</h3> 
