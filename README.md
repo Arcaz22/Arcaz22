@@ -7,7 +7,6 @@ ul<h1 align="center">Hi 👋, I'm Chandra Arcychan Azfar</h1>
 </p>
 
 - 💻 I am interested in **Artificial Intelligence**
-- 📃 My portofolio **https://portofolio-tan-nu.vercel.app/**
 - 📝 I write on **https://ulasan.rampung.space/**
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
