@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandra Arcychan Azfar</h1>
+ul<h1 align="center">Hi 👋, I'm Chandra Arcychan Azfar</h1>
 <h3 align="center">I am a Software Developer, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
@@ -8,7 +8,7 @@
 
 - 💻 I am interested in **Artificial Intelligence**
 - 📃 My portofolio **https://portofolio-tan-nu.vercel.app/**
-- 📝 I write on **https://medium.com/@chandraarcychan**
+- 📝 I write on **https://ulasan.rampung.space/**
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
   <!-- <h3 align="left">Tools</h3> 
