@@ -7,7 +7,7 @@
 </p>
 
 - 💻 I am interested in **Artificial Intelligence**
-- 📝 I write on **https://ulasan.rampung.space/**
+- 📝 I write on **https://medium.com/@chandraarcychan**
 - 📫 How to reach me **chandraarcychan@gmail.com**
 
   <!-- <h3 align="left">Tools</h3> 
