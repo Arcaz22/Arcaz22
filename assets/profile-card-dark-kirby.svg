@@ -23,7 +23,7 @@
       <stop offset="100%" stop-color="#f24b91" stop-opacity="0"/>
     </radialGradient>
     <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%">
-      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity=".22"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity=".45"/>
     </filter>
   </defs>
   <style>
@@ -35,6 +35,7 @@
     .section { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1px; fill: #8b949e; }
     .label { font-family: Arial, Helvetica, sans-serif; font-size: 15px; fill: #8b949e; }
     .value { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 650; fill: #e6edf3; }
+    .link-value { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 650; fill: #58a6ff; text-decoration: underline; }
     .chip { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 650; fill: #e6edf3; }
     .footer { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill: #8b949e; }
   </style>
@@ -46,13 +47,12 @@
   <text x="1348" y="58" text-anchor="end" class="mono" font-size="13" fill="#8b949e">github.com/Arcaz22</text>
   <line x1="52" y1="78" x2="1348" y2="78" stroke="#30363d"/>
 
-
   <rect x="52" y="106" width="520" height="520" rx="20" fill="#0d1117" stroke="#30363d"/>
   <text x="78" y="137" class="eyebrow">KIRBY</text>
   <text x="546" y="137" text-anchor="end" class="mono" font-size="12" fill="#8b949e">vector · no raster</text>
 
   <g transform="translate(105 166)" filter="url(#softShadow)">
-    <ellipse cx="208" cy="354" rx="145" ry="30" fill="#000000" opacity=".28"/>
+    <ellipse cx="208" cy="354" rx="145" ry="30" fill="#000000" opacity=".40"/>
     <ellipse cx="104" cy="310" rx="95" ry="45" transform="rotate(-19 104 310)" fill="url(#kirbyFoot)"/>
     <ellipse cx="309" cy="307" rx="92" ry="44" transform="rotate(17 309 307)" fill="url(#kirbyFoot)"/>
     <ellipse cx="22" cy="193" rx="48" ry="75" transform="rotate(14 22 193)" fill="url(#kirbyBody)"/>
@@ -98,9 +98,21 @@
     <g transform="translate(0 366)">
       <rect x="0" y="0" width="730" height="154" rx="16" fill="#0d1117" stroke="#30363d"/>
       <text x="24" y="32" class="section">CONTACT</text>
-      <text x="24" y="67" class="label">Email</text><text x="150" y="67" class="value">chandraarcychan@gmail.com</text>
-      <text x="24" y="101" class="label">LinkedIn</text><text x="150" y="101" class="value">chandra-arcychan-azfar</text>
-      <text x="24" y="135" class="label">Medium</text><text x="150" y="135" class="value">@chandraarcychan</text>
+
+      <text x="24" y="67" class="label">Email</text>
+      <a href="mailto:chandraarcychan@gmail.com" target="_blank">
+        <text x="150" y="67" class="link-value">chandraarcychan@gmail.com</text>
+      </a>
+
+      <text x="24" y="101" class="label">LinkedIn</text>
+      <a href="https://www.linkedin.com/in/chandra-arcychan-azfar" target="_blank">
+        <text x="150" y="101" class="link-value">chandra-arcychan-azfar</text>
+      </a>
+
+      <text x="24" y="135" class="label">Medium</text>
+      <a href="https://medium.com/@chandraarcychan" target="_blank">
+        <text x="150" y="135" class="link-value">@chandraarcychan</text>
+      </a>
     </g>
 
     <circle cx="8" cy="540" r="6" fill="#3fb950"/>

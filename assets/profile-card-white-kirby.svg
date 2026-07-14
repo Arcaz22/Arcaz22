@@ -98,9 +98,24 @@
     <g transform="translate(0 366)">
       <rect x="0" y="0" width="730" height="154" rx="16" fill="#ffffff" stroke="#d0d7de"/>
       <text x="24" y="32" class="section">CONTACT</text>
-      <text x="24" y="67" class="label">Email</text><text x="150" y="67" class="value">chandraarcychan@gmail.com</text>
-      <text x="24" y="101" class="label">LinkedIn</text><text x="150" y="101" class="value">chandra-arcychan-azfar</text>
-      <text x="24" y="135" class="label">Medium</text><text x="150" y="135" class="value">@chandraarcychan</text>
+
+      <!-- Tautan Email (Membuka aplikasi email) -->
+      <text x="24" y="67" class="label">Email</text>
+      <a href="mailto:chandraarcychan@gmail.com" target="_blank">
+        <text x="150" y="67" class="value" fill="#0969da" text-decoration="underline">chandraarcychan@gmail.com</text>
+      </a>
+
+      <!-- Tautan LinkedIn -->
+      <text x="24" y="101" class="label">LinkedIn</text>
+      <a href="https://www.linkedin.com/in/chandra-arcychan-azfar" target="_blank">
+        <text x="150" y="101" class="value" fill="#0969da" text-decoration="underline">chandra-arcychan-azfar</text>
+      </a>
+
+      <!-- Tautan Medium -->
+      <text x="24" y="135" class="label">Medium</text>
+      <a href="https://medium.com/@chandraarcychan" target="_blank">
+        <text x="150" y="135" class="value" fill="#0969da" text-decoration="underline">@chandraarcychan</text>
+      </a>
     </g>
 
     <circle cx="8" cy="540" r="6" fill="#1a7f37"/>
