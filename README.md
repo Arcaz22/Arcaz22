@@ -1,29 +1,22 @@
-<h1 align="center">Hi 👋, I'm Chandra Arcychan Azfar</h1>
-<h3 align="center">I am a Software Developer, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=arcaz22&label=Profile%20views&color=0e75b6&style=flat" alt="arcaz22" />
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/profile-card-dark-kirby.svg">
+<source media="(prefers-color-scheme: light)" srcset="./assets/profile-card-white-kirby.svg">
+<img src="./assets/profile-card-dark-kirby.svg" width="100%" alt="Chandra Arcychan GitHub profile">
+</picture>
 </p>
 
-- 💻 I am interested in **Artificial Intelligence**
-- 📝 I write on **https://medium.com/@chandraarcychan**
-- 📫 How to reach me **chandraarcychan@gmail.com**
+<!-- <p align="center">
+<a href="mailto:chandraarcychan@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/chandra-arcychan-azfar">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://medium.com/@chandraarcychan">Medium</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Arcaz22">GitHub</a>
+</p>
 
-  <!-- <h3 align="left">Tools</h3> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>      
-  </a>
-  <a href="https://java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>      
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a> -->
-
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arcaz22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaz22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p> -->

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" role="img" aria-labelledby="title description">
+  <title id="title">Chandra Arcychan profile card</title>
+  <desc id="description">Minimal developer profile card with a clean vector Kirby illustration.</desc>
+
+  <defs>
+    <radialGradient id="kirbyBody" cx="38%" cy="28%" r="78%">
+      <stop offset="0%" stop-color="#ffd5e7"/>
+      <stop offset="55%" stop-color="#f7a7ca"/>
+      <stop offset="100%" stop-color="#e87db2"/>
+    </radialGradient>
+    <linearGradient id="kirbyFoot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff718a"/>
+      <stop offset="100%" stop-color="#d83261"/>
+    </linearGradient>
+    <linearGradient id="kirbyEye" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b2d"/>
+      <stop offset="62%" stop-color="#0b1d4d"/>
+      <stop offset="100%" stop-color="#1567d8"/>
+    </linearGradient>
+    <radialGradient id="kirbyBlush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f24b91" stop-opacity=".82"/>
+      <stop offset="100%" stop-color="#f24b91" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: "Courier New", "Liberation Mono", Consolas, monospace; font-variant-ligatures: none; }
+    .ascii { font-family: "Courier New", "Liberation Mono", Consolas, monospace; font-size: 11px; font-weight: 700; fill: #c9d1d9; white-space: pre; opacity: .86; }
+    .eyebrow { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1.6px; fill: #58a6ff; }
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 750; fill: #e6edf3; }
+    .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 17px; fill: #8b949e; }
+    .section { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1px; fill: #8b949e; }
+    .label { font-family: Arial, Helvetica, sans-serif; font-size: 15px; fill: #8b949e; }
+    .value { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 650; fill: #e6edf3; }
+    .chip { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 650; fill: #e6edf3; }
+    .footer { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill: #8b949e; }
+  </style>
+
+  <rect width="1400" height="700" fill="#0d1117"/>
+  <rect x="18" y="18" width="1364" height="664" rx="24" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+
+  <text x="52" y="58" class="mono" font-size="14" font-weight="700" fill="#e6edf3">chandraarcychan / profile</text>
+  <text x="1348" y="58" text-anchor="end" class="mono" font-size="13" fill="#8b949e">github.com/Arcaz22</text>
+  <line x1="52" y1="78" x2="1348" y2="78" stroke="#30363d"/>
+
+
+  <rect x="52" y="106" width="520" height="520" rx="20" fill="#0d1117" stroke="#30363d"/>
+  <text x="78" y="137" class="eyebrow">KIRBY</text>
+  <text x="546" y="137" text-anchor="end" class="mono" font-size="12" fill="#8b949e">vector · no raster</text>
+
+  <g transform="translate(105 166)" filter="url(#softShadow)">
+    <ellipse cx="208" cy="354" rx="145" ry="30" fill="#000000" opacity=".28"/>
+    <ellipse cx="104" cy="310" rx="95" ry="45" transform="rotate(-19 104 310)" fill="url(#kirbyFoot)"/>
+    <ellipse cx="309" cy="307" rx="92" ry="44" transform="rotate(17 309 307)" fill="url(#kirbyFoot)"/>
+    <ellipse cx="22" cy="193" rx="48" ry="75" transform="rotate(14 22 193)" fill="url(#kirbyBody)"/>
+    <ellipse cx="394" cy="185" rx="48" ry="76" transform="rotate(-16 394 185)" fill="url(#kirbyBody)"/>
+    <circle cx="208" cy="185" r="152" fill="url(#kirbyBody)"/>
+
+    <ellipse cx="153" cy="166" rx="24" ry="48" fill="url(#kirbyEye)"/>
+    <ellipse cx="254" cy="166" rx="24" ry="48" fill="url(#kirbyEye)"/>
+    <ellipse cx="150" cy="149" rx="11" ry="17" fill="#ffffff"/>
+    <ellipse cx="251" cy="149" rx="11" ry="17" fill="#ffffff"/>
+    <ellipse cx="154" cy="187" rx="12" ry="17" fill="#1682ef" opacity=".72"/>
+    <ellipse cx="255" cy="187" rx="12" ry="17" fill="#1682ef" opacity=".72"/>
+
+    <ellipse cx="89" cy="224" rx="44" ry="26" fill="url(#kirbyBlush)"/>
+    <ellipse cx="326" cy="224" rx="44" ry="26" fill="url(#kirbyBlush)"/>
+
+    <path d="M169 225 C177 206 194 197 212 199 C238 201 252 220 246 242 C241 261 224 275 204 274 C181 273 163 251 169 225Z" fill="#7c2433"/>
+    <path d="M177 237 C193 225 221 224 239 237 C234 258 220 270 203 270 C188 270 179 258 177 237Z" fill="#f05d68"/>
+  </g>
+
+  <text x="78" y="598" class="mono" font-size="12" fill="#8b949e">friendly · playful · clean</text>
+
+  <g transform="translate(620 118)">
+    <text x="0" y="0" class="eyebrow">SOFTWARE DEVELOPER</text>
+    <text x="0" y="48" class="title">Chandra Arcychan Azfar</text>
+    <text x="0" y="80" class="subtitle">Backend systems, AI, and Automation.</text>
+
+    <g transform="translate(0 120)">
+      <rect x="0" y="0" width="730" height="112" rx="16" fill="#0d1117" stroke="#30363d"/>
+      <text x="24" y="30" class="section">ABOUT</text>
+      <text x="24" y="62" class="value">Software Developer · Indonesia</text>
+      <text x="24" y="88" class="label">Windows 11 · Linux · WSL</text>
+    </g>
+
+    <text x="0" y="274" class="section">CORE STACK</text>
+    <g transform="translate(0 292)">
+      <rect x="0" y="0" width="90" height="34" rx="17" fill="#21262d"/><text x="45" y="22" text-anchor="middle" class="chip">Python</text>
+      <rect x="102" y="0" width="66" height="34" rx="17" fill="#21262d"/><text x="135" y="22" text-anchor="middle" class="chip">Go</text>
+      <rect x="180" y="0" width="76" height="34" rx="17" fill="#21262d"/><text x="218" y="22" text-anchor="middle" class="chip">Java</text>
+      <rect x="268" y="0" width="100" height="34" rx="17" fill="#21262d"/><text x="318" y="22" text-anchor="middle" class="chip">Node js</text>
+    </g>
+
+    <g transform="translate(0 366)">
+      <rect x="0" y="0" width="730" height="154" rx="16" fill="#0d1117" stroke="#30363d"/>
+      <text x="24" y="32" class="section">CONTACT</text>
+      <text x="24" y="67" class="label">Email</text><text x="150" y="67" class="value">chandraarcychan@gmail.com</text>
+      <text x="24" y="101" class="label">LinkedIn</text><text x="150" y="101" class="value">chandra-arcychan-azfar</text>
+      <text x="24" y="135" class="label">Medium</text><text x="150" y="135" class="value">@chandraarcychan</text>
+    </g>
+
+    <circle cx="8" cy="540" r="6" fill="#3fb950"/>
+    <text x="24" y="545" class="footer">Open to collaboration</text>
+    <text x="730" y="545" text-anchor="end" class="footer">English · Indonesia</text>
+  </g>
+</svg>

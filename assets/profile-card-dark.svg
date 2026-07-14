@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400"
+     height="700"
+     viewBox="0 0 1400 700"
+     role="img"
+     aria-labelledby="title description">
+  <title id="title">Chandra Arcychan GitHub profile card</title>
+  <desc id="description">
+    ASCII portrait and software developer profile information.
+  </desc>
+
+  <style>
+    .mono {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-variant-ligatures: none;
+    }
+    .ascii {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 9.8px;
+      font-weight: 700;
+      font-variant-ligatures: none;
+      fill: #f0f6fc;
+      white-space: pre;
+    }
+    .header {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 16px;
+      font-weight: 700;
+      fill: #e6edf3;
+    }
+    .subheader {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 15px;
+      font-weight: 700;
+      fill: #e6edf3;
+    }
+    .label {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #d29922;
+    }
+    .dots {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 14px;
+      fill: #8b949e;
+    }
+    .value {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #79c0ff;
+    }
+    .muted {
+      font-family: "Courier New", "Liberation Mono", Consolas, monospace;
+      font-size: 13px;
+      fill: #8b949e;
+    }
+    .divider {
+      stroke: #30363d;
+      stroke-width: 1;
+    }
+    .small-divider {
+      stroke: #30363d;
+      stroke-width: 1;
+      stroke-dasharray: 4 5;
+    }
+  </style>
+
+  <rect width="1400" height="700" fill="#0d1117" />
+  <rect x="1.5" y="1.5" width="1397" height="697" rx="15"
+        fill="#161b22"
+        stroke="#30363d"
+        stroke-width="3" />
+
+  <text x="34" y="38" class="header">chandraarcychan / README.md</text>
+  <text x="1362" y="38" text-anchor="end" class="muted">github.com/Arcaz22</text>
+  <line x1="34" y1="56" x2="1365" y2="56" class="divider" />
+
+  <line x1="665" y1="76" x2="665" y2="662" class="divider" />
+
+  <text x="145" y="91.00" class="ascii">                                                            </text><text x="145" y="102.25" class="ascii">                                                            </text><text x="145" y="113.50" class="ascii">                      {{1{1111111{1111{                     </text><text x="145" y="124.75" class="ascii">                          {{{                               </text><text x="145" y="136.00" class="ascii">                {111{]_+&lt;&lt;&gt;&gt;ii&gt;&lt;~~ii~~-[                    </text><text x="145" y="147.25" class="ascii">              {111[_&gt;l;;;II;:;:::,;l!!i&lt;?{1{{               </text><text x="145" y="158.50" class="ascii">               }_&gt;I;;IIIIlII;;;::::,,::;I&lt;}                 </text><text x="145" y="169.75" class="ascii">             {+;,::lIIIIII:;IIIlI,,::,&quot;&quot;^^I-[               </text><text x="145" y="181.00" class="ascii">            {&gt;,:I;II::;;;:,&quot;;:,&quot;&quot;,::,,,^^^`&quot;I+}             </text><text x="145" y="192.25" class="ascii">           [l&quot;;l;::;I;:;;:,&quot;:I:^`,:,,,I,^&quot;^`&quot;:&lt;}            </text><text x="145" y="203.50" class="ascii">          [!&quot;:II;::lI:;;::::;;:::;:,,&quot;I,````^&quot;!]{           </text><text x="145" y="214.75" class="ascii">         {&lt;,,:,,:,:;II:;:;::,,::::;I;:I:&quot;,`&#x27;&#x27;`&quot;&lt;}           </text><text x="145" y="226.00" class="ascii">       {1_;,&quot;^&quot;,::l!;:;Il;IIII;::;::,,::,,^^`&#x27;`:-{          </text><text x="145" y="237.25" class="ascii">        {i,&quot;^`^&quot;^^:!Il;:IIIIII:IlI:&quot;^,,:,,&quot;,^&#x27;^:i}          </text><text x="145" y="248.50" class="ascii">        ]:&quot;^```^,+]~&lt;&lt;&gt;!l;lI,;!;,,::,&quot;,l~]_l;^^,;]          </text><text x="145" y="259.75" class="ascii">        -,&quot;^``&quot;;{uux/|1-i;&lt;~&gt;i&gt;~_][[]}|jnnj{&gt;&quot;^&quot;,_          </text><text x="145" y="271.00" class="ascii">      {1];,^^^,~rzzcn/1-l+fucccXJCLCJJJUYXzn[I::,~          </text><text x="145" y="282.25" class="ascii">        [l:^^^&quot;?nXYXn{~&lt;[cUCLQQQQQQLLCJJJYXc/~!I:&gt;          </text><text x="145" y="293.50" class="ascii">        [l;:;,I}xcYYvtfvLQQQQQQQQQQQQLCJJYzcn|~iI&lt;          </text><text x="145" y="304.75" class="ascii">        {i;lI!?|xuzXUCLQQ000QQQ0QQLQLLCJJYcvnx|~i+          </text><text x="145" y="316.00" class="ascii">        {!:Ii{frxnucYUCL0OO0000QQQLQQLCJUXvvnrj{i&lt;          </text><text x="145" y="327.25" class="ascii">        {lI!}fjjjxvXUCQ0OOZZOOOO0QQ00QLCCUzvrrf\~&gt;          </text><text x="145" y="338.50" class="ascii">        {ll~\ttfrvcuzJQZwmmZZZZZZOOZZ0LJcuzcxrf/]_          </text><text x="145" y="349.75" class="ascii">         &gt;i-\ttjf\{??[1|fuUL00000LXu|{?___?1|fft]-11(|({    </text><text x="145" y="361.00" class="ascii">    (\t(1]~]\/f/{{1)1{?_-{/nXJCUXnt([[1\tjjt/fft]-(ncuvr1{  </text><text x="145" y="372.25" class="ascii">   \fuczj)?]\/ffjnvXJCYvxjjruYJJznjfjuczcnxxrjft])xcJJYYn{  </text><text x="145" y="383.50" class="ascii">  (tXJJYun(?\/frj/(1)||\/jnxuYCCXnx\/}+&lt;{1])tjft{rcnUO0XX\{ </text><text x="145" y="394.75" class="ascii">  \rCJLXXcx{\tjr/{_)|I:[U\xcxXJJvzc/Cf!~zv(/xnjt(fxxnJLcX\{ </text><text x="145" y="406.00" class="ascii">  (nJCJzzru(\trnnrtjzt1vUuvvxzJYuczzczxvvnvczvjt\x\/tcXvu   </text><text x="145" y="417.25" class="ascii">   xYCznrvv|\txvczzcvzzuuXcxnYLCcuXUYzXXXUUUYvj/tJYx/rrv\{  </text><text x="145" y="428.50" class="ascii">  {\cYvxYQYf|fxuXUJCCUYYJUnncULQYuvCQLCLQQQCYvr\rLOcuj/r{   </text><text x="145" y="439.75" class="ascii">   {jcXvQ0Cj(truzUCQLCCLQzxuzUQQJznzQO0QQQQCYvj|xUuucjx)    </text><text x="145" y="451.00" class="ascii">     xczczJf)/jnvYL0O00QUnxcUL0LJUcxUOOOO0QCXnf|jvcxxr({    </text><text x="145" y="462.25" class="ascii">     )nuvvnt)/jxvYL0OOQJzvULC0mqwLCYzCOOOOQUcxf\xcccn       </text><text x="145" y="473.50" class="ascii">      )zvvzf(/jxvXC0OOJzccXrxcJCXrxYcYLOO0CYvxf)xXzn){      </text><text x="145" y="484.75" class="ascii">      {/XXXr)/jxuzUQOQUzzj[[frfff1_\vUJQQLUXvxf11/|{{       </text><text x="145" y="496.00" class="ascii">       {)/t11/jxnvXUJCJJUXvzYJJJJYXYLLQCCUYXvxt             </text><text x="145" y="507.25" class="ascii">          {11\jxnncYYUUUYXXXXYUUUYYUJCCUYXzcvx/             </text><text x="145" y="518.50" class="ascii">            {(frxnvccccvvuvzXYYXYYXzzXXXccccur(             </text><text x="145" y="529.75" class="ascii">             )/jrxnuuv/])(|/fjrxxf\||{rvvvvux/              </text><text x="145" y="541.00" class="ascii">              (/jjrnnuuxrfxXUJUUUXx/ffxnnnxjt){             </text><text x="145" y="552.25" class="ascii">               (\tfjxnzUznjvQOOZOUxnXUcnxxf\)               </text><text x="145" y="563.50" class="ascii">               {1(/fjxncXXujft//tfnzXcuxrt({                </text><text x="145" y="574.75" class="ascii">                }{)\tjxucYUJJUYYYYzzcvux/)}()               </text><text x="145" y="586.00" class="ascii">               {)1}{(truczUCLLLLCJXXzcn/{[(f\               </text><text x="145" y="597.25" class="ascii">             {1)[&lt;1{}1/ruvczYUUUUYXcvx|}}\jfz(              </text><text x="145" y="608.50" class="ascii">            {1)-,&lt;j|)}}1\frxxxxxxxxj\{})trxfCj])            </text><text x="145" y="619.75" class="ascii">          {1){&lt;:`um(t\(1{}{1)111{}}[})\frxnfUC:]){          </text><text x="145" y="631.00" class="ascii">           {_I:;Iw#ntjftt/1?~&lt;&lt;&lt;~-{|tfjrxnnrnh?,?){         </text><text x="145" y="642.25" class="ascii">        {}_l::;,]*#wfrrfjrxr/){1(\tfjjjxnuujxMz&quot;I]1{        </text>
+
+  <text x="700" y="96" class="subheader">chandraarcychan@github</text>
+  <text x="1363" y="96" text-anchor="end" class="muted">software developer</text>
+  <line x1="700" y1="114" x2="1363" y2="114" class="divider" />
+
+  <text x="700" y="153" class="label">OS</text>
+<text x="908" y="153" class="dots">................................</text>
+<text x="1004" y="153" class="value">Windows 11, Linux, WSL</text><text x="700" y="184" class="label">Host</text>
+<text x="908" y="184" class="dots">................................</text>
+<text x="1004" y="184" class="value">Software Developer, Indonesia</text><text x="700" y="215" class="label">IDE</text>
+<text x="908" y="215" class="dots">................................</text>
+<text x="1004" y="215" class="value">VSCode</text><text x="700" y="246" class="label">Focus</text>
+<text x="908" y="246" class="dots">................................</text>
+<text x="1004" y="246" class="value">Backend systems, AI, automation</text><line x1="700" y1="288" x2="1363" y2="288" class="small-divider" /><text x="700" y="298" class="label">Languages.Programming</text>
+<text x="908" y="298" class="dots">................................</text>
+<text x="1004" y="298" class="value">Python, Go, Java, Node.js</text><text x="700" y="329" class="label">Languages.Real</text>
+<text x="908" y="329" class="dots">................................</text>
+<text x="1004" y="329" class="value">English, Indonesia</text><text x="700" y="360" class="label">Writing</text>
+<text x="908" y="360" class="dots">................................</text>
+<text x="1004" y="360" class="value">medium.com/@chandraarcychan</text><line x1="700" y1="402" x2="1363" y2="402" class="small-divider" /><text x="700" y="412" class="label">Email</text>
+<text x="908" y="412" class="dots">................................</text>
+<text x="1004" y="412" class="value">chandraarcychan@gmail.com</text><text x="700" y="443" class="label">LinkedIn</text>
+<text x="908" y="443" class="dots">................................</text>
+<text x="1004" y="443" class="value">linkedin.com/in/chandra-arcychan-azfar</text><text x="700" y="474" class="label">Discord</text>
+<text x="908" y="474" class="dots">................................</text>
+<text x="1004" y="474" class="value">chandraarcychanazfar</text><line x1="700" y1="516" x2="1363" y2="516" class="small-divider" /><text x="700" y="526" class="label">Username</text>
+<text x="908" y="526" class="dots">................................</text>
+<text x="1004" y="526" class="value">arcaz22</text><text x="700" y="557" class="label">Profile</text>
+<text x="908" y="557" class="dots">................................</text>
+<text x="1004" y="557" class="value">github.com/Arcaz22</text>
+
+  <text x="700" y="655" class="muted">
+    Backend systems · AI · automation
+  </text>
+  <text x="1363" y="655" text-anchor="end"
+        class="mono" font-size="13" font-weight="700"
+        fill="#3fb950">
+    open to collaboration
+  </text>
+</svg>
