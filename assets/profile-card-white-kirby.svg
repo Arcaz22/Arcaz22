@@ -46,7 +46,6 @@
   <text x="1348" y="58" text-anchor="end" class="mono" font-size="13" fill="#656d76">github.com/Arcaz22</text>
   <line x1="52" y1="78" x2="1348" y2="78" stroke="#d0d7de"/>
 
-
   <rect x="52" y="106" width="520" height="520" rx="20" fill="#ffffff" stroke="#d0d7de"/>
   <text x="78" y="137" class="eyebrow">KIRBY</text>
   <text x="546" y="137" text-anchor="end" class="mono" font-size="12" fill="#656d76">vector · no raster</text>
@@ -76,15 +75,16 @@
   <text x="78" y="598" class="mono" font-size="12" fill="#656d76">friendly · playful · clean</text>
 
   <g transform="translate(620 118)">
-    <text x="0" y="0" class="eyebrow">SOFTWARE DEVELOPER</text>
+    <text x="0" y="0" class="eyebrow">SOFTWARE DEVELOPER - INDONESIA</text>
     <text x="0" y="48" class="title">Chandra Arcychan Azfar</text>
-    <text x="0" y="80" class="subtitle">Backend systems, AI, and Automation.</text>
+    <text x="0" y="80" class="subtitle">Backend systems, AI, and Automation</text>
 
+    <!-- Mengganti ABOUT menjadi ENVIRONMENT & memperjelas Workspace Setup -->
     <g transform="translate(0 120)">
       <rect x="0" y="0" width="730" height="112" rx="16" fill="#ffffff" stroke="#d0d7de"/>
-      <text x="24" y="30" class="section">ABOUT</text>
-      <text x="24" y="62" class="value">Software Developer · Indonesia</text>
-      <text x="24" y="88" class="label">Windows 11 · Linux · WSL</text>
+      <text x="24" y="30" class="section">ENVIRONMENT</text>
+      <text x="24" y="62" class="value">Windows 11 · Linux · WSL</text>
+      <text x="24" y="88" class="label">Main OS &amp; Development Environment</text>
     </g>
 
     <text x="0" y="274" class="section">CORE STACK</text>
@@ -99,23 +99,14 @@
       <rect x="0" y="0" width="730" height="154" rx="16" fill="#ffffff" stroke="#d0d7de"/>
       <text x="24" y="32" class="section">CONTACT</text>
 
-      <!-- Tautan Email (Membuka aplikasi email) -->
       <text x="24" y="67" class="label">Email</text>
-      <a href="mailto:chandraarcychan@gmail.com" target="_blank">
-        <text x="150" y="67" class="value" fill="#0969da" text-decoration="underline">chandraarcychan@gmail.com</text>
-      </a>
+      <text x="150" y="67" class="value">chandraarcychan@gmail.com</text>
 
-      <!-- Tautan LinkedIn -->
       <text x="24" y="101" class="label">LinkedIn</text>
-      <a href="https://www.linkedin.com/in/chandra-arcychan-azfar" target="_blank">
-        <text x="150" y="101" class="value" fill="#0969da" text-decoration="underline">chandra-arcychan-azfar</text>
-      </a>
+      <text x="150" y="101" class="value">chandra-arcychan-azfar</text>
 
-      <!-- Tautan Medium -->
       <text x="24" y="135" class="label">Medium</text>
-      <a href="https://medium.com/@chandraarcychan" target="_blank">
-        <text x="150" y="135" class="value" fill="#0969da" text-decoration="underline">@chandraarcychan</text>
-      </a>
+      <text x="150" y="135" class="value">@chandraarcychan</text>
     </g>
 
     <circle cx="8" cy="540" r="6" fill="#1a7f37"/>
